@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/>
+
 <!--
 **I-L-A-D/I-L-A-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
