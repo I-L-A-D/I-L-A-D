@@ -1,9 +1,9 @@
 <div align="center">
 
 
-<img src="https://github.com/I-L-A-D/test/blob/main/index.html">
+IOS를 사랑하는 AOS 개발자
 
-<a href="#"><img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/></a><br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=I-L-A-D)
 
 ![I-L-A-D's github stats](https://github-readme-stats.vercel.app/api?username=I-L-A-D&show_icons=true)
