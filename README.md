@@ -13,7 +13,7 @@
 <a href="mailto:ye_s_jin@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### ✔️ 만들어요 🔖
-<a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-444444?style=for-the-badge&logo=kakao&logoColor=white"/></a>
+<a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-ABFFC1?style=for-the-badge&logo=kakao&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC-Afy8KGoupvJ_Bod3Sr51g"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
 
 <!-- <a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-444444? style=flat-square&logo=kakao&logoColor=white"/></a>
