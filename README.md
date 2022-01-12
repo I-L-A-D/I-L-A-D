@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ### Hi there 👋
 
 <a href="#"><img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/></a>
@@ -22,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</div>
