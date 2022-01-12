@@ -3,7 +3,10 @@
 
 IOS를 사랑하는 AOS 개발자
 
-<a href="#"><img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/></a><br>
+<a href="#"><img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=I-L-A-D)
 
 ![I-L-A-D's github stats](https://github-readme-stats.vercel.app/api?username=I-L-A-D&show_icons=true)
