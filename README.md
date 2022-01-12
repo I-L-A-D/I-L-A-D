@@ -1,11 +1,16 @@
 <div align="center">
 
 
-IOS를 사랑하는 AOS 개발자
+## IOS를 사랑하는 AOS 개발자
+애플의 모든 제품을 사용하며<br>
+안드로이드 앱 개발을 합니다 🥴 <br>
 
+
+### 📌 연락해요 📞
 <a href="https://open.kakao.com/o/sTgFButd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
 <a href="mailto:ye_s_jin@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+### 📌 만들어요 🔖
 <a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-444444?style=for-the-badge&logo=kakao&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC-Afy8KGoupvJ_Bod3Sr51g"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
 
