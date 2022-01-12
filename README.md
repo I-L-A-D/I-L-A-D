@@ -14,7 +14,7 @@
 <a href="https://open.kakao.com/o/sTgFButd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
 <a href="mailto:ye_s_jin@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### ✔️ 만들어요 🔖
+### ✔️ 기록해요 🔖
 <a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-white?style=for-the-badge&logo=kakao&logoColor=black"/></a>
 <a href="https://www.youtube.com/channel/UC-Afy8KGoupvJ_Bod3Sr51g"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
 
