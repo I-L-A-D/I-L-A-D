@@ -3,8 +3,9 @@
 
 ## IOS를 사랑하는 AOS 개발자
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/APPLE-000000?style=flat-square&logo=apple&logoColor=white"/></a>
-애플의 모든 제품을 사용하며<br>
-안드로이드 앱 개발을 합니다 🥴 <br>
+의 모든 제품을 사용하며<br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
+앱 개발을 합니다 🥴 <br>
 
 - - -
 
