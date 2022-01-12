@@ -3,9 +3,15 @@
 
 IOS를 사랑하는 AOS 개발자
 
-<a href="#"><img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=kakao&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://open.kakao.com/o/sTgFButd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
+<a href="https://open.kakao.com/o/sTgFButd"><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
+
+<a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-444444?style=for-the-badge&logo=kakao&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UC-Afy8KGoupvJ_Bod3Sr51g"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
+
+<!-- <a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/blog-444444? style=flat-square&logo=kakao&logoColor=white"/></a>
+<a href="https://devziner.tistory.com"><img src="https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin"/></a> -->
+<!-- https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=I-L-A-D)
 
